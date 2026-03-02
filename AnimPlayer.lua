@@ -1,5 +1,4 @@
--- Anim player stuff
--- I dont know who made but it's cool
+-- Anim player stuff thing
 
 
 local Rig = game.Players.LocalPlayer.Character
